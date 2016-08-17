@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ChromisPOS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/reports.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resettickettype.jar!/" />
+      <root url="jar://$PROJECT_DIR$/changeiconset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/obconvert.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
